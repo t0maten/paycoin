@@ -71,7 +71,7 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location filename="../forms/addressbookpage.ui" line="74"/>
         <source>&amp;Copy to Clipboard</source>
-        <translation>&amp;amp; Kopiera till Urklipp</translation>
+        <translation>&amp;Kopiera till Urklipp</translation>
     </message>
     <message>
         <location filename="../forms/addressbookpage.ui" line="85"/>
@@ -96,7 +96,7 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location filename="../forms/addressbookpage.ui" line="113"/>
         <source>&amp;Delete</source>
-        <translation>&amp;amp; Radera</translation>
+        <translation>&amp;Radera</translation>
     </message>
     <message>
         <location filename="../addressbookpage.cpp" line="65"/>
@@ -304,7 +304,7 @@ Are you sure you wish to encrypt your wallet?</source>
     <message>
         <location filename="../bitcoingui.cpp" line="191"/>
         <source>&amp;Overview</source>
-        <translation>&amp;amp; Översikt</translation>
+        <translation>&amp;Översikt</translation>
     </message>
     <message>
         <location filename="../bitcoingui.cpp" line="192"/>
@@ -344,7 +344,7 @@ Are you sure you wish to encrypt your wallet?</source>
     <message>
         <location filename="../bitcoingui.cpp" line="215"/>
         <source>&amp;Receive coins</source>
-        <translation>&amp;amp; Ta emot Paycoins</translation>
+        <translation>&amp;Ta emot Paycoins</translation>
     </message>
     <message>
         <location filename="../bitcoingui.cpp" line="216"/>
@@ -354,7 +354,7 @@ Are you sure you wish to encrypt your wallet?</source>
     <message>
         <location filename="../bitcoingui.cpp" line="221"/>
         <source>&amp;Send coins</source>
-        <translation>&amp;amp; Skicka Paycoins</translation>
+        <translation>&amp;Skicka Paycoins</translation>
     </message>
     <message>
         <location filename="../bitcoingui.cpp" line="227"/>
@@ -394,12 +394,12 @@ Are you sure you wish to encrypt your wallet?</source>
     <message>
         <location filename="../bitcoingui.cpp" line="259"/>
         <source>&amp;Options...</source>
-        <translation>&amp;amp; Alternativ ...</translation>
+        <translation>&amp;Alternativ ...</translation>
     </message>
     <message>
         <location filename="../bitcoingui.cpp" line="264"/>
         <source>&amp;Export...</source>
-        <translation>&amp;amp;Exportera ...</translation>
+        <translation>&amp;Exportera ...</translation>
     </message>
     <message>
         <location filename="../bitcoingui.cpp" line="265"/>
@@ -409,7 +409,7 @@ Are you sure you wish to encrypt your wallet?</source>
     <message>
         <location filename="../bitcoingui.cpp" line="266"/>
         <source>&amp;Encrypt Wallet</source>
-        <translation>&amp;amp;Kryptera plånbok</translation>
+        <translation>&amp;Kryptera plånbok</translation>
     </message>
     <message>
         <location filename="../bitcoingui.cpp" line="267"/>
@@ -439,7 +439,7 @@ Are you sure you wish to encrypt your wallet?</source>
     <message>
         <location filename="../bitcoingui.cpp" line="274"/>
         <source>&amp;Change Passphrase</source>
-        <translation>&amp;amp;Byt lösenfras</translation>
+        <translation>&amp;Byt lösenfras</translation>
     </message>
     <message>
         <location filename="../bitcoingui.cpp" line="275"/>
